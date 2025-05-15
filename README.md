@@ -1,7 +1,11 @@
 🧠 Project: Blog from YouTube Videos
+
 This project automates the process of converting YouTube videos into well-structured blog posts using audio transcription, language models, and a Streamlit UI. It enables users to generate content-rich, SEO-friendly blog articles from educational or informative videos in just a few clicks.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🚀 Key Features
+
 🔗 Accepts any public YouTube video URL.
 
 🔊 Extracts and transcribes audio using OpenAI Whisper.
@@ -13,6 +17,8 @@ This project automates the process of converting YouTube videos into well-struct
 🖼️ Adds relevant AI-generated images or Unsplash-sourced visuals to support blog sections.
 
 🌐 Displays the output in a clean Streamlit web interface.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🧱 Project Structure
@@ -33,8 +39,10 @@ BlogFromYouTubeVideos/
 │
 └── blogenv/                   # Python virtual environment
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚙️ Workflow Overview
+
 YouTube URL Input
 The user provides a YouTube video link via the Streamlit app.
 
@@ -66,6 +74,8 @@ Paragraphs
 
 Supporting images
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📦 Technologies Used
 Python 3.10+
@@ -82,6 +92,7 @@ dotenv – Environment management
 
 Requests / PIL – Optional image handling
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📌 Future Improvements
 ✅ Image upload/download and storage in local or cloud
@@ -91,3 +102,4 @@ Requests / PIL – Optional image handling
 🧠 Multi-language support
 
 🧾 Export to .md, .html, or CMS integration
+
