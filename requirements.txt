@@ -1,0 +1,5 @@
+pytube
+whisper
+transformers
+torch
+streamlit
