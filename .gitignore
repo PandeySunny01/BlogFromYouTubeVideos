@@ -1,1 +1,5 @@
 /blogenv
+/agents/test.ipynb
+/agents/test.py
+/agents/.env
+/agents/streamlitapp.py
